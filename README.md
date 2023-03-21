@@ -1,11 +1,10 @@
-### LANDING PAGE ####
+### <h1> LANDING PAGE </h1> ####
 
 
-Projeto de uma Landing page construída no evento "DO zero á primeira vaga" da Rocketseat.
+<p>Projeto de uma Landing page construída no evento "Do zero á primeira vaga" da Rocketseat.</p>
 
 
+# <h3>Tecnologias Uilizadas</h3>:
 
-# Tecnologias Uilizadas:
-
--HTML
--CSS 
+<li>HTML</li>
+<li>CSS</li>
